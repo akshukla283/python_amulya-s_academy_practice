@@ -1,0 +1,3 @@
+Welocome to hello.txt!
+this is the second line of the file.
+And this is the third line of the file.
