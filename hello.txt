@@ -1,3 +1,3 @@
-Welocome to hello.txt!
-this is the second line of the file.
-And this is the third line of the file.
+Hello world
+this is the second message in the second line
+this is the third line just wanted to check this.
